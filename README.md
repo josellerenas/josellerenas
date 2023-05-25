@@ -2,7 +2,7 @@
 
 ## I'm currently looking for a job. About me:
 
-- Software developer working with the following technologies: **Frontend (HTML, CSS, SASS and JavaScript) and Java mobile for Android.**
+- Software developer working with the following technologies: **Backend (Java, Spring Framework, Spring Boot, JPA, Spring Security, RESTful API)**
 
 - Interested in keep learning the cutting-edge technologies that domain the IT industry.
 
